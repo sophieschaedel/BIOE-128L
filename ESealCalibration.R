@@ -8,7 +8,7 @@ procedure=read_csv(here::here("data/raw/ESEAL_FORAGING_2024_REVISED.v2.csv"))
 
 skimr::skim(drone)
 skimr::skim(ocean)
-skimr::skim(procedure) 
+skimr::skim(procedure)  
 
 #first look ploting ======================================================================
 ###Basic (in class) ======================================================================
